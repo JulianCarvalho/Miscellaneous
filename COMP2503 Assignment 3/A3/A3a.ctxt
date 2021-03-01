@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=A3a
+comment0.text=\r\n\ COMP\ 2503\ Winter\ 2018\:\ Assignment\ 3\ -\ Part\ 1\ of\ 3\r\n\ \r\n\ A3a\ read\ in\ a\ file\ and\ goes\ \r\n\ through\ thefile\ seeing\ if\ the\ \r\n\ Strings\ in\ it\ are\ palindromes\r\n\r\n\ Julian\ Carvalho\r\n\ March\ 2,\ 2018\r\n
+comment1.params=Args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=word
+comment3.target=void\ loadStack(java.lang.String)
+comment4.params=
+comment4.target=void\ chkPlndrm()
+comment5.params=word
+comment5.target=void\ print(java.lang.String)
+numComments=6

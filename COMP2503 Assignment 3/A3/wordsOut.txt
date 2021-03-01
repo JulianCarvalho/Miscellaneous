@@ -1,0 +1,13 @@
+palindrome: No
+abba: Yes
+abBA: No
+a: Yes
+hello: No
+goodbye: No
+bb: Yes
+!@#$%^%$#@!: Yes
+kayak: Yes
+1111111111111111111111111111111111111111111111111111110000000000000000000: No
+3333333333333333333333333333333333333: Yes
+aabbaa: Yes
+bb_BB: No

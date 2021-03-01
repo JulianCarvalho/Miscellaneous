@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Word
+comment1.params=wrd\ frq
+comment1.target=Word(java.lang.String,\ int)
+comment2.params=w0
+comment2.target=int\ compareTo(Word)
+comment3.params=w1\ w2
+comment3.target=int\ compare(Word,\ Word)
+comment4.params=
+comment4.target=int\ getFrequency()
+comment5.params=
+comment5.target=java.lang.String\ getWord()
+numComments=6

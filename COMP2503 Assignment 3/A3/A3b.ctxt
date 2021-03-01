@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=A3b
+comment0.text=\r\n\ A3b\ reads\ in\ a\ file,\ takes\ in\ two\ strings\ from\ the\ file,\ \r\n\ stores\ numbers\ in\ two\ stacks\ based\ off\ of\ the\ strings,\r\n\ adds\ them\ and\ stores\ them\ into\ a\ new\ stack,\ then\ prints\ \r\n\r\n\ Julian\ Carvalho\r\n\ March\ 3,\ 2019\r\n
+comment1.params=Args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=num\ numStack
+comment3.target=void\ loadStack(java.lang.String,\ java.util.Stack)
+comment4.params=
+comment4.target=void\ addStacks()
+comment5.params=
+comment5.target=void\ print()
+numComments=6

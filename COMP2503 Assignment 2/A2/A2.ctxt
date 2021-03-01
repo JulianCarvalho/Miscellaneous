@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=A2
+comment0.text=\ \r\n\ COMP\ 2503\ Winter\ 2018\ Assignment\ 1\ \r\n\ \r\n\ This\ program\ reads\ a\ text\ file\ and\ compiles\ a\ list\ of\ the\ \r\n\ words\ together\ with\ how\ many\ each\ word\ appears.\ \r\n\r\n\ Words\ from\ a\ standard\ list\ of\ stop\ words\ are\ not\ included.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=w
+comment2.target=boolean\ stopword(java.lang.String)
+comment2.text=\r\n\ Check\ if\ the\ word\ given\ is\ in\ the\ stopword\ list.\r\n\ @param\ w\ a\ word\ \r\n\ @return\ true\ if\ w\ is\ a\ stopword,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=void\ printResults()
+comment4.params=
+comment4.target=void\ readFile()
+comment4.text=\ \ \r\n\ \ \ \ Read\ the\ input\ file\ and\ process\ it.\ \r\n\ \ \ \ Input\ is\ on\ standard\ input\ and\ is\ read\ one\ \r\n\ \ \ \ word\ at\ a\ time\ --\ separated\ by\ whitespace.\ \r\n\r\n\ \ \ \ All\ non\ alphabetic\ characters\ are\ stripped\ out\ and\ \r\n\ \ \ \ words\ are\ all\ converted\ to\ lower\ case.\ \r\n\r\n\ \ \ \ Any\ non-stopword\ word\ is\ stored\ in\ the\ list\ of\ words\ \r\n\ \ \ \ and\ the\ number\ of\ occurances\ is\ tracked.\r\n
+comment5.params=
+comment5.target=void\ run()
+comment5.text=\ Run\ the\ program.\ Read\ the\ file,\ then\ print\ the\ results.\ \r\n
+numComments=6
