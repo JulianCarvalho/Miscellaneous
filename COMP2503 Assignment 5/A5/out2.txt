@@ -1,0 +1,38 @@
+
+------
+
+Total Words: 10
+Stop Words: 5
+Unique Words: 4
+
+------
+
+20 Most Frequent
+flames : 6 : 1
+gone : 4 : 1
+lingers : 7 : 1
+pain : 4 : 1
+
+------
+
+Statistics for Word Frequencies
+The most frequent word is flames : 6 : 1
+The least frequent word is pain : 4 : 1
+The average word frequency is 1
+
+------
+
+Statistics for Word Length
+The longest word is lingers : 7 : 1
+The shortest word is pain : 4 : 1
+The average word length is 5
+
+------
+
+All Words
+flames : 6 : 1
+gone : 4 : 1
+lingers : 7 : 1
+pain : 4 : 1
+
+------

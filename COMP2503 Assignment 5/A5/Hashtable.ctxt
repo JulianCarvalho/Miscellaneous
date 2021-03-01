@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hashtable
+comment1.params=l\ c
+comment1.target=Hashtable(java.util.ArrayList,\ int)
+comment2.params=
+comment2.target=void\ loadHashTable()
+numComments=3

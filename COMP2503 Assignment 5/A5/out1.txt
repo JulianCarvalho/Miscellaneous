@@ -1,0 +1,32 @@
+
+------
+
+Total Words: 3
+Stop Words: 1
+Unique Words: 1
+
+------
+
+20 Most Frequent
+bcis : 4 : 2
+
+------
+
+Statistics for Word Frequencies
+The most frequent word is bcis : 4 : 2
+The least frequent word is bcis : 4 : 2
+The average word frequency is 2
+
+------
+
+Statistics for Word Length
+The longest word is bcis : 4 : 2
+The shortest word is bcis : 4 : 2
+The average word length is 4
+
+------
+
+All Words
+bcis : 4 : 2
+
+------

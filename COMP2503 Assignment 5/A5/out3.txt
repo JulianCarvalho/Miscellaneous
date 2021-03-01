@@ -1,0 +1,190 @@
+
+------
+
+Total Words: 488
+Stop Words: 46
+Unique Words: 140
+
+------
+
+20 Most Frequent
+time : 4 : 15
+ant : 3 : 13
+doodlebug : 9 : 9
+move : 4 : 9
+step : 4 : 8
+cell : 4 : 7
+doodlebugs : 10 : 6
+ants : 4 : 5
+grid : 4 : 5
+steps : 5 : 5
+x : 1 : 4
+according : 9 : 3
+breed : 5 : 3
+critter : 7 : 3
+end : 3 : 3
+every : 5 : 3
+may : 3 : 3
+off : 3 : 3
+simulation : 10 : 3
+three : 5 : 3
+
+------
+
+Statistics for Word Frequencies
+The most frequent word is time : 4 : 15
+The least frequent word is write : 5 : 1
+The average word frequency is 1
+
+------
+
+Statistics for Word Length
+The longest word is perturbations : 13 : 1
+The shortest word is x : 1 : 4
+The average word length is 6
+
+------
+
+All Words
+according : 9 : 3
+action : 6 : 1
+additional : 10 : 1
+adjacent : 8 : 2
+allowed : 7 : 1
+although : 8 : 1
+ant : 3 : 13
+ants : 4 : 5
+ascii : 5 : 1
+available : 9 : 1
+basic : 5 : 1
+behave : 6 : 2
+between : 7 : 1
+both : 4 : 2
+breed : 5 : 3
+breeding : 8 : 1
+cell : 4 : 7
+cells : 5 : 2
+characters : 10 : 1
+class : 5 : 2
+classes : 7 : 1
+common : 6 : 1
+composed : 8 : 1
+converting : 10 : 1
+create : 6 : 2
+creating : 8 : 1
+critter : 7 : 3
+critters : 8 : 2
+current : 7 : 1
+cyclical : 8 : 1
+d : 1 : 1
+data : 4 : 2
+defined : 7 : 1
+derived : 7 : 1
+die : 3 : 1
+direction : 9 : 1
+doodlebug : 9 : 9
+doodlebugs : 10 : 6
+draw : 4 : 1
+during : 6 : 1
+each : 4 : 2
+eat : 3 : 2
+eaten : 5 : 1
+edges : 5 : 1
+eight : 5 : 1
+elapsed : 7 : 1
+elimination : 11 : 1
+empty : 5 : 2
+encapsulates : 12 : 1
+enclosed : 8 : 1
+end : 3 : 3
+enter : 5 : 1
+every : 5 : 3
+example : 7 : 1
+following : 9 : 2
+generate : 8 : 1
+grid : 4 : 5
+ie : 2 : 1
+implement : 9 : 1
+initialize : 10 : 1
+integer : 7 : 2
+keep : 4 : 1
+last : 4 : 1
+lead : 4 : 1
+live : 4 : 1
+manner : 6 : 1
+mathrandom : 10 : 1
+may : 3 : 3
+method : 6 : 1
+model : 5 : 2
+move : 4 : 9
+moved : 5 : 1
+moves : 5 : 1
+moving : 6 : 1
+multiplying : 11 : 1
+named : 5 : 2
+need : 4 : 1
+new : 3 : 2
+next : 4 : 1
+note : 4 : 2
+number : 6 : 1
+o : 1 : 1
+occupied : 8 : 2
+occupy : 6 : 1
+occurs : 6 : 1
+off : 3 : 3
+offspring : 9 : 2
+once : 4 : 1
+only : 4 : 1
+organism : 8 : 1
+other : 5 : 1
+otherwise : 9 : 1
+overridden : 10 : 1
+pattern : 7 : 1
+performs : 8 : 1
+perturbations : 13 : 1
+population : 10 : 1
+predatorprey : 12 : 1
+predators : 9 : 2
+press : 5 : 1
+prey : 4 : 2
+produce : 7 : 1
+produced : 8 : 1
+program : 7 : 1
+prompt : 6 : 1
+random : 6 : 2
+randomly : 8 : 1
+range : 5 : 1
+removed : 7 : 1
+results : 7 : 1
+rules : 5 : 1
+same : 4 : 2
+see : 3 : 1
+selected : 8 : 1
+simple : 6 : 1
+simulated : 9 : 2
+simulation : 10 : 3
+six : 3 : 1
+spawn : 5 : 1
+species : 7 : 1
+starve : 6 : 2
+stays : 5 : 1
+step : 4 : 8
+steps : 5 : 5
+structures : 10 : 1
+survives : 8 : 2
+third : 5 : 2
+three : 5 : 3
+time : 4 : 15
+track : 5 : 1
+try : 3 : 1
+turn : 4 : 1
+until : 5 : 1
+use : 3 : 1
+user : 4 : 1
+using : 5 : 1
+within : 6 : 1
+world : 5 : 3
+write : 5 : 1
+x : 1 : 4
+
+------
