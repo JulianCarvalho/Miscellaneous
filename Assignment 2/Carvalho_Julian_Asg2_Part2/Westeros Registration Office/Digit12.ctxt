@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=digit3\ digit6\ digit8
+comment0.target=int\ digit12Get(int,\ int,\ int)
+numComments=1
