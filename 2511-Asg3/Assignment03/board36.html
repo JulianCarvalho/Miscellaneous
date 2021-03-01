@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Game of Number 6x6 Board</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style/style36.css">
+        <script src="script36.js"></script>
+	</head>
+	<body onload="StartGame()">
+    <div id="maincontainer">
+            
+            
+            <div id="main_head"> 
+                <h5 id="htitle">Game of Number</h5>
+            </div>
+            
+            <div id="mainnav">
+        
+                <ul>
+                    <li><a href="index.html"><div id="mnav_1"></div></a></li>
+                    <li><a href="board25.html"><div id="mnav_2"></div></a></li>
+                    <li><a href="board36.html"><div id="mnav_3"></div></a></li>
+                
+                </ul>
+                
+                
+                
+            </div>
+            <div id="contgame">
+               <div id="left_nav">
+                    <div id ="numbers"></div>
+                    <div id="num1" > </div>
+                    <div id="num2"> </div>
+                    <div id="num3"> </div>
+                    <div id="newdraw"  onclick="getDraw()"></div>
+                </div>
+            
+                <div id="gamearea6x6">
+
+
+                        <div class="row1" id="ga6r11" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row1" id="ga6r12" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row1" id="ga6r13" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row1" id="ga6r14" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row1" id="ga6r15" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row1" id="ga6r16" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+
+                        <div class="row2" id="ga6r21" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row2" id="ga6r22" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row2" id="ga6r23" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row2" id="ga6r24" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row2" id="ga6r25" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row2" id="ga6r26" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+
+
+                        <div class="row3" id="ga6r31" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row3" id="ga6r32" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row3" id="ga6r33" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row3" id="ga6r34" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row3" id="ga6r35" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row3" id="ga6r36" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+
+                        <div class="row4" id="ga6r41" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row4" id="ga6r42" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row4" id="ga6r43" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row4" id="ga6r44" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row4" id="ga6r45" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row4" id="ga6r46" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+
+                        <div class="row5" id="ga6r51" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row5" id="ga6r52" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row5" id="ga6r53" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row5" id="ga6r54" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row5" id="ga6r55" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row5" id="ga6r56" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+
+                        <div class="row6" id="ga6r61" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row6" id="ga6r62" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row6" id="ga6r63" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row6" id="ga6r64" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row6" id="ga6r65" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+                        <div class="row6" id="ga6r66" onmouseover="ImageOnHover(this.id)" onmouseout="ImageOnOut(this.id)" onclick="ImageOnClick(this.id)"></div>
+
+
+                 </div>
+                 <div id="right_nav">
+
+                    <div id="scores"></div>
+                    <div id="scoreval"> 0 </div>
+                    <div id="newboard" onclick="getNewBoard()"></div>
+
+                </div>
+                <div id="startgame" onclick="StartGame()"></div>
+            </div>
+            <div id="footer_main">
+
+                <h2>Designed by Padma Polash Paul</h2>
+                <h2>COMP2511: Assignment 03 @ Mount Royal University</h2>
+
+            </div>
+            
+        </div>
+
+  
+	</body>
+            
+</html>

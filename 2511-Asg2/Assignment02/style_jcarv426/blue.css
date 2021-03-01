@@ -1,0 +1,147 @@
+header, footer, h3 
+{
+    background-color: Blue;
+	margin: auto;
+	padding: 0.25em;
+	margin: 0em;
+}
+
+h2 
+{
+    text-align: right;
+	font-size: 2em;
+}
+
+#main-nav 
+{
+    background-color: deepskyblue;
+	margin: 0em;
+	padding: 0.5em;
+} 
+
+#main-nav a:link
+{
+	color:white;
+	padding: 25px;
+}
+
+#main-nav a:hover 
+{
+    background-color: Blue;
+}
+
+#main-nav li
+{
+    display: inline;
+	padding: 2em;
+}
+
+#main_mn 
+{
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#links, #resources 
+{
+    background-color: lightskyblue;
+}
+
+#links a:link
+{
+    color:Blue;
+}
+
+#links a:visited
+{
+    color:white;
+}
+
+#resources a:link
+{
+    color:Blue;
+}
+
+#resources a:visited
+{
+    color:white;
+}
+
+#resources a:hover
+{
+    color: none;
+}
+
+header, footer
+{
+    color: white;
+}
+
+#main_mn ul 
+{
+    list-style-type: none;
+}
+
+#links ul 
+{
+    list-style-type: none;
+}
+
+h5 
+{
+    background-color: Blue;
+}
+
+.aheader h1
+{
+    color:black
+}
+
+#articlearea 
+{
+	overflow: scroll;
+	width: 85%;
+	height: 80%;
+	position: absolute;
+	left: 15.75%;
+}
+
+#links
+{
+	width: 15%;
+	height: 60%;
+	position: absolute;
+	top: 32.8%;
+	text-align: left;
+} 
+
+#resources
+{
+	width: 15%;
+	height: 40%;
+	position: absolute;
+	top: 80%;
+	text-align: left;
+}
+
+#footer-v
+{
+	width: 100%;
+	height: 5%;
+	position: absolute;
+	top: 116%;
+	text-align: center;
+	line-height: 0%;
+	font-size: 1.2em;
+}
+
+#main-art section p::first-letter
+{
+    font-size: 200%;
+	color: Blue;
+}
+
+#abstact em
+{
+    text-decoration: underline;
+}
